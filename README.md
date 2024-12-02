@@ -80,40 +80,40 @@ text-shadow: 0 0 5px #000;
 </style>
 <div class="snowflakes" aria-hidden="true">
 <div class="snowflake">
-🎃
+⬜
 </div>
 <div class="snowflake">
-👿
+🔳
 </div>
 <div class="snowflake">
-🎃
+🔘
 </div>
 <div class="snowflake">
-👿
+💠
 </div>
 <div class="snowflake">
-👺
+◾
 </div>
 <div class="snowflake">
-👹
+◽
 </div>
 <div class="snowflake">
-🎃
+🔻
 </div>
 <div class="snowflake">
-💀
+🔺
 </div>
 <div class="snowflake">
-🎃
+🔹
 </div>
 <div class="snowflake">
-👿
+🔵
 </div>
 <div class="snowflake">
-🎃
+🔴
 </div>
 <div class="snowflake">
-👿
+⚫
 </div>
 </div>
 <script>
@@ -133,7 +133,7 @@ background-color: #cccccc;
 </head> <a href="#Site"><img src="https://awesomesam.vercel.app/api/top-langs?username=Xx5905499&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=1%22" width="320px" height= "110" alt="#Languages"></a>
 
 </html>
-<h3> <span style="color:#ff0000">Owners "@Xx5905499" "@TTVpoopooumgood"</span> </h3>
+<h3> <span style="color:#ff0000">Owners "@Xx5905499"xx"</span> </h3>
 <h4> <span style="color:#ff0000"> <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time made by ttv</button></span></h4>
